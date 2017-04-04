@@ -7,5 +7,18 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "\"mongodb\"",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susanX/blackcurrant.git"
+  },
+  "bugs": {
+    "url": "https://github.com/susanX/blackcurrant/issues"
+  },
+  "homepage": "https://github.com/susanX/blackcurrant#readme"
 }
